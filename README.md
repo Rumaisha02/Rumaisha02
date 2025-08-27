@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rumaisha Qadeer</h1>
 <h3 align="center">A computer science student trying to put in all the efforts to be a good developer.</h3>
 
-- 🔭 I’m currently working on [Review Aggregator Site](https://github.com/Rumaisha02/Review-Aggregator-site)
+- 🔭 I’m currently working on [Book Recommender System](https://github.com/Rumaisha02/Book_Recommender_System.git)
 
 - 🌱 I’m currently learning **React, Spring Boot**
 
